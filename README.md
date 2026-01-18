@@ -387,8 +387,7 @@ This is a demo project. For production use:
 ## 💡 AI Tools Used
 
 This project was built with assistance from:
-- **Cursor AI**: Code completion and generation
-- **Claude (Sonnet)**: Architecture decisions and problem-solving
+- **Cursor AI and Claude Sonnet**: Code completion and generation
 
 
 ## 📧 Contact
