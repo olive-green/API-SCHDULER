@@ -379,20 +379,11 @@ This is a demo project. For production use:
 4. Submit PR
 
 
-
-## 🎥 Demo Video
-
-[Link to Loom video will be here]
-
 ## 💡 AI Tools Used
 
 This project was built with assistance from:
 - **Cursor AI and Claude Sonnet**: Code completion and generation
 
-
-## 📧 Contact
-
-For questions or feedback, please open an issue on GitHub.
 
 
 
